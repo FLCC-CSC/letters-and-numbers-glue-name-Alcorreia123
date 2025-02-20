@@ -1,8 +1,8 @@
 # FILE NAME - glue_name.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Ashley Correia
+# DATE: 2025-19-02
+# BRIEF DESCRIPTION: This lab will output "Hi, Ashley Correia"
 
 
 
@@ -18,7 +18,9 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
     
-    
+first_name = input ( 'Enter first name: ')
+last_name = input ( 'Enter last name: ')
+print (f'Hi, {first_name} {last_name}')  
     
     
     
@@ -76,6 +78,10 @@ Hi, Lisa Simpson, esquire
 1. What is a lesson you learned during this lab? You do not have to restrict
    your response to Python. It might be a lesson in time management, a lesson
    using CodeGrade, or something else.
+
+   In this lab, I really learned how to fail over and over again
+   until I got it just right. I had to deal with feelings of discouragment,
+   as well as excitement when I finally figured it all out!
 
 
 
